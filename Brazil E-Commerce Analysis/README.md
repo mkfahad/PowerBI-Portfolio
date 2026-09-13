@@ -432,7 +432,8 @@ E-Commerce-Analysis/
 
 Aspiring Data Analyst | Excel | Power BI | SQL | Python
 
-GitHub: `mkfahad`
+GitHub: https://github.com/mkfahad
+Linkedin: https://www.linkedin.com/in/mfahadmk/
 
 ---
 
